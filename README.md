@@ -28,6 +28,8 @@ O script é projetado para ser chamado por meio de uma requisição HTTP contend
   "status_correios": "Entregue",
   "codigo_de_rastreio_correios": "XYZ789"
 }
+
+```
 Fluxo de Execução
 Autenticação e Inicialização:
 
