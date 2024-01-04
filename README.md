@@ -1,3 +1,6 @@
+# Gentileza alterar a branch para dev.
+
+
 # Consulta.php - Script de Atualização de Incidentes RightNow
 
 ## Descrição
